@@ -5,7 +5,8 @@ body::-webkit-scrollbar {
   display: none;
 }
 .videocon{
-  background-image: linear-gradient( rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+  background-image: linear-gradient( rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2));
+  padding: 20px;
 }
 .img_top{
   display: none;
